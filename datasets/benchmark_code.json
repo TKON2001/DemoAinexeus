@@ -1,0 +1,4 @@
+[
+  { "question": "Viết hàm cộng 2 số trong TypeScript", "answer": "function add(a:number,b:number){return a+b;}" },
+  { "question": "Dùng Promise.all để chạy song song có lợi ích gì?", "answer": "Giảm tổng thời gian xử lý khi các tác vụ độc lập." }
+]
